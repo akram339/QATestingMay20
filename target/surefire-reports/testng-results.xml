@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-30T11:05:18Z" name="SeleniumTraining" finished-at="2021-06-30T11:05:48Z" duration-ms="30406">
+    <groups>
+    </groups>
+    <test started-at="2021-06-30T11:05:18Z" name="Testcycle1" finished-at="2021-06-30T11:05:48Z" duration-ms="30406">
+      <class name="com.qa.TestScripts.TestCase1">
+        <test-method signature="testaddressbook()[pri:0, instance:com.qa.TestScripts.TestCase1@35a3d49f]" started-at="2021-06-30T11:05:18Z" name="testaddressbook" finished-at="2021-06-30T11:05:48Z" duration-ms="30389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaddressbook -->
+      </class> <!-- com.qa.TestScripts.TestCase1 -->
+    </test> <!-- Testcycle1 -->
+  </suite> <!-- SeleniumTraining -->
+</testng-results>
