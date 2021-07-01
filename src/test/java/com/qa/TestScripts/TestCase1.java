@@ -11,7 +11,7 @@ public class TestCase1 {
 	public void testaddressbook() throws InterruptedException
 	{
 		 WebDriver driver    = new ChromeDriver();
-		 driver.get("http://3.15.205.158:49153/addressbook/");
+		 driver.get("http://18.216.38.119:49153/addressbook/");
 		 Thread.sleep(1000);
 		 driver.manage().window().maximize();
 		 Thread.sleep(2000);
