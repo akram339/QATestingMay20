@@ -10,8 +10,8 @@ public class TestCase1 {
 	@Test
 	public void testaddressbook() throws InterruptedException
 	{
-		 //WebDriver driver    = new ChromeDriver();
-		 WebDriver driver = new RemoteWebDriver("http://localhost:9515", DesiredCapabilities.chrome());
+		 WebDriver driver    = new ChromeDriver();
+		 //WebDriver driver = new RemoteWebDriver("http://localhost:9515", DesiredCapabilities.chrome());
 		 driver.get("http://18.216.38.119:49153/addressbook/");
 		 Thread.sleep(1000);
 		 driver.manage().window().maximize();
